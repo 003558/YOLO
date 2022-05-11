@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0067.png</filename>
+	<path>M:\業務データ\2021\M18021032_加古川浸水把握R03\30_浸水把握システム改良\02_量水標\AI\keras-yolo3-master\VOCdevkit\VOC_\JPEGImages\0067.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>159</ymin>
+			<xmax>343</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

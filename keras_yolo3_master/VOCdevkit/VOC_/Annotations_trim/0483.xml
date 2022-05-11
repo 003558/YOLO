@@ -1,0 +1,26 @@
+<annotation>
+	<folder>render</folder>
+	<filename>0483.png</filename>
+	<path>M:\業務データ\2021\M18021032_加古川浸水把握R03\30_浸水把握システム改良\02_量水標\AI\star_mark\render\0483.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1056</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>456</ymin>
+			<xmax>1010</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>
